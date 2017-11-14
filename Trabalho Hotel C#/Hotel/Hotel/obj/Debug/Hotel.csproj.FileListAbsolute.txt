@@ -1,0 +1,26 @@
+C:\Users\p-vit\Desktop\BCC\Linguagens de Programação\Trabalho Hotel C#\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\p-vit\Desktop\BCC\Linguagens de Programação\Trabalho Hotel C#\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\p-vit\Desktop\BCC\Linguagens de Programação\Trabalho Hotel C#\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\p-vit\Desktop\BCC\Linguagens de Programação\Trabalho Hotel C#\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\p-vit\Desktop\BCC\Linguagens de Programação\Trabalho Hotel C#\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.Cache
+C:\Users\p-vit\Desktop\BCC\Linguagens de Programação\Trabalho Hotel C#\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\p-vit\Desktop\BCC\Linguagens de Programação\Trabalho Hotel C#\Hotel\Hotel\obj\Debug\Hotel.pdb
+C:\Users\p-vit\Desktop\BCC\Linguagens de Programação\Trabalho Hotel C#\Hotel\Hotel\obj\Debug\Hotel.frmCliente.resources
+C:\Users\p-vit\Desktop\BCC\Linguagens de Programação\Trabalho Hotel C#\Hotel\Hotel\obj\Debug\Hotel.frmQuarto.resources
+C:\Users\p-vit\Desktop\BCC\Linguagens de Programação\Trabalho Hotel C#\Hotel\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+C:\Users\p-vit\Desktop\BCC\Linguagens de Programação\Trabalho Hotel C#\Hotel\Hotel\obj\Debug\Hotel.frmMenu.resources
+C:\Users\p-vit\Desktop\BCC\Linguagens de Programação\Trabalho Hotel C#\Hotel\Hotel\obj\Debug\Hotel.frmSobre.resources
+C:\Users\p-vit\Desktop\BCC\Linguagens de Programação\Trabalho Hotel C#\Hotel\Hotel\obj\Debug\Hotel.frmReserva.resources
+C:\Users\p-vit\Desktop\Trabalho Hotel C#\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\p-vit\Desktop\Trabalho Hotel C#\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\p-vit\Desktop\Trabalho Hotel C#\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\p-vit\Desktop\Trabalho Hotel C#\Hotel\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+C:\Users\p-vit\Desktop\Trabalho Hotel C#\Hotel\Hotel\obj\Debug\Hotel.frmCliente.resources
+C:\Users\p-vit\Desktop\Trabalho Hotel C#\Hotel\Hotel\obj\Debug\Hotel.frmMenu.resources
+C:\Users\p-vit\Desktop\Trabalho Hotel C#\Hotel\Hotel\obj\Debug\Hotel.frmQuarto.resources
+C:\Users\p-vit\Desktop\Trabalho Hotel C#\Hotel\Hotel\obj\Debug\Hotel.frmReserva.resources
+C:\Users\p-vit\Desktop\Trabalho Hotel C#\Hotel\Hotel\obj\Debug\Hotel.frmSobre.resources
+C:\Users\p-vit\Desktop\Trabalho Hotel C#\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\p-vit\Desktop\Trabalho Hotel C#\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.Cache
+C:\Users\p-vit\Desktop\Trabalho Hotel C#\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\p-vit\Desktop\Trabalho Hotel C#\Hotel\Hotel\obj\Debug\Hotel.pdb
